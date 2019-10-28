@@ -7,3 +7,6 @@ The conflict hase been resolved like this.....  =====>
 # Another branch 
 Called, Branch_1, created from the same commit (that Branch_1 one) on master.
 
+# Branch_3
+
+
