@@ -9,4 +9,5 @@ Called, Branch_1, created from the same commit (that Branch_1 one) on master.
 
 # Branch_3
 
+Another Commit for Branch_3
 
